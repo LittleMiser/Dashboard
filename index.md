@@ -10,3 +10,6 @@
     * 6.4 [State Models（状态模型）]()
     * 6.5 [System Sequence Diagrams（功能模型）]()
     * 6.6 [Supplementary Requirements（补充需求）]()
+
+* X1 meet_recording
+    - [Inception meeting (2019/04/14)](MeetingRecords/Inception-meeting)

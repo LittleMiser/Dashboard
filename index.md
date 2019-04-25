@@ -12,4 +12,4 @@
     * 6.6 [Supplementary Requirements（补充需求）]()
 
 * X1 meet_recording
-    - [Inception meeting (2019/04/14)](MeetingRecords/Inception-meeting)
+    - [Inception meeting (2019/04/14)](MeetingRecords/Inception-meeting.md)

@@ -33,7 +33,7 @@
 
 5. 业务流程：  
 初步讨论出以下流程  
-![](../images/Business.png) 
+![](../../images/Business.png) 
 
 6. 人员分工：  
 * 项目前期文档分小组完成任务  

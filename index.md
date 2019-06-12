@@ -15,3 +15,4 @@
     - [Inception meeting (2019/04/14)](docs/MeetingRecords/Inception-meeting.md)
     - [Iteration 1 meeting (2019/04/27)](docs/MeetingRecords/Iteration-1-meeting.md)
     - [Iteration 2 meeting (2019/05/12)](docs/MeetingRecords/Iteration-2-meeting-frontend.md)
+    - [Iteration 3 meeting (2019/06/02)](docs/MeetingRecords/Iteration-3-meeting.md)

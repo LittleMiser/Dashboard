@@ -9,7 +9,7 @@
     * 6.3 [Domian Models（领域模型）](docs/Domain.md)
     * 6.4 [State Models（状态模型）]()
     * 6.5 [System Sequence Diagrams（功能模型）]()
-    * 6.6 [Supplementary Requirements（补充需求）]()
+    * 6.6 [Supplementary Requirements（补充需求）](docs/6.6-Supplementary-Requirements.md)
 
 * X1 meet_recording
     - [Inception meeting (2019/04/14)](docs/MeetingRecords/Inception-meeting.md)

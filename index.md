@@ -1,4 +1,4 @@
-* 1、[About（项目概况）]()
+* 1、[About（项目概况）](docs/1-About.md)
 * 2、[Team profile（团队组建与分工）](docs/2-TeamProfile.md)
 * 3、[Investigation（项目前期调研/竞品分析）](docs/3-Investigation.md)
 * 4、[Vision（项目愿景）](docs/4-Vision.md)
@@ -7,7 +7,7 @@
     * 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](docs/6-1-UsecaseDiagram.md)
     * 6.2 [Use Cases（用例+活动图）](docs/6.2Use-Cases-activity.md)
     * 6.3 [Domian Models（领域模型）](docs/6-3-Domain.md)
-    * 6.4 [State Models（状态模型）]()
+    * 6.4 [State Models（状态模型）](docs/6-4-StateModels.md)
     * 6.5 [System Sequence Diagrams（功能模型）](docs/6.5-System-Sequence-Diagrams.md)
     * 6.6 [Supplementary Requirements（补充需求）](docs/6.6-Supplementary-Requirements.md)
 

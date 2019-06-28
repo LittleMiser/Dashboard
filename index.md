@@ -16,7 +16,7 @@
     * 7.2 Database design（数据库设计）
     * 7.3 Interface API design（接口 API 设计）
     * 7.4 Architecture design（架构设计）
-    * 7.5 Usecase design（用例设计）
+    * 7.5 [Usecase design（用例设计）](docs/7-5-UsecaseDesign.md)
 * 8、生产规范与指南
     * 8.1 XX 代码规范
     * 8.2 REST API 设计规范
@@ -30,7 +30,7 @@
     - [Iteration 1 meeting (2019/04/27)](docs/MeetingRecords/Iteration-1-meeting.md)
     - [Iteration 2 meeting (2019/05/12)](docs/MeetingRecords/Iteration-2-meeting-frontend.md)
     - [Iteration 3 meeting (2019/06/02)](docs/MeetingRecords/Iteration-3-meeting.md)
-* X2 KANBAN
+* X2 [KANBAN](https://github.com/orgs/LittleMiser/projects)
 * X3 auditing-records
 * X4 Tech/Work Report
     * 学号-title

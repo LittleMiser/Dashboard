@@ -31,7 +31,7 @@
     - [Iteration 2 meeting (2019/05/12)](docs/MeetingRecords/Iteration-2-meeting-frontend.md)
     - [Iteration 3 meeting (2019/06/02)](docs/MeetingRecords/Iteration-3-meeting.md)
 * X2 [KANBAN](https://github.com/orgs/LittleMiser/projects)
-* X3 auditing-records
+* X3 [auditing-records](doc/X3-auditing-records.md)
 * X4 Tech/Work Report
     * 学号-title
 * X5 Final Report

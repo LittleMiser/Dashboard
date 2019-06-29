@@ -18,9 +18,9 @@
     * 7.4 [Architecture design（架构设计）](docs/7-4-SoftwareDesign.md)
     * 7.5 [Usecase design（用例设计）](docs/7-5-UsecaseDesign.md)
 * 8、生产规范与指南
-    * 8.1 XX 代码规范
-    * 8.2 REST API 设计规范
-    * 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
+    * 8.1 [代码规范](docs/8-1-CodeSpecification.md)
+    * 8.2 [REST API 设计规范](docs/8-2-RestAPI-设计规范.md)
+    * 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](docs/8-3-架构设计、详细设计（BCE方法）到应用程序框架映射指南.md)
     * 8.4 [部署说明](docs/8-4-Installation.md)
 * 9、成品展示
     * 9.1 [演示视频](docs/演示视频.mp4)
@@ -32,7 +32,12 @@
 * X2 [KANBAN](https://github.com/orgs/LittleMiser/projects)
 * X3 [auditing-records](docs/X3-auditing-records.md)
 * X4 Tech/Work Report
-    * 学号-title
+    * 16340077 Blogs
+        * [系统分析与设计——作业一](https://170226.github.io/2019/03/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%80/#more)
+        * [系统分析与设计——作业二](https://170226.github.io/2019/03/28/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%8C/#more)
+        * [系统分析与设计——作业三](https://170226.github.io/2019/04/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%89/#more)
+        * [系统分析与设计——作业四](https://170226.github.io/2019/05/24/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E5%9B%9B/#more)
+        * [系统分析与设计——作业五](https://170226.github.io/2019/05/26/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%94/#more)
 * X5 Final Report
-    * 学号-title
+    * [16340077 Final Report](docs/X5-Final-Reports/1634077-Final-Report.md)
     * [小组分工与贡献率说明](docs/X5-Division.md)

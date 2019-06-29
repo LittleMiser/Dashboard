@@ -5,7 +5,7 @@
 | :------------: | :-------------: | :------------: | :-------------: |  
 |16340087 | Yuefengxin | [需求审计：发布问卷](https://github.com/SSASGroup/Dashboard/issues/13) | https://github.com/SSASGroup/Dashboard/issues/13 |
 |16340164 | lvxm0 | | |
-|16340058 | dongxy7 | | |
+|16340058 | dongxy7|[结果回收及报酬发放](https://github.com/yikounaicha/xianqianproj/issues/2) |https://github.com/yikounaicha/xianqianproj/issues/2|
 |16340077 | 170226|[需求审计：提现](https://github.com/sysu620/sysu620/issues/2) | https://github.com/sysu620/sysu620/issues/2 |
 |16340110 | Chocoboeater | | |
 |16340092 | WaLittleMoon | | |
@@ -16,7 +16,7 @@
 | :------------: | :-------------: | :------------: | :-------------: |  
 |16340087 | Yuefengxin | [设计审计：数据库问卷设计](https://github.com/SSASGroup/Dashboard/issues/14) | https://github.com/SSASGroup/Dashboard/issues/14 |
 |16340164 | lvxm0 | | |
-|16340058 | dongxy7 | | |
+|16340058 | dongxy7| [设计审计](https://github.com/strugglinggreenhands/SpareMoney_Documents/issues/10)| https://github.com/strugglinggreenhands/SpareMoney_Documents/issues/10 |
 |16340077 | 170226| [设计审计：UI导航栏](https://github.com/sysu620/sysu620/issues/3)| https://github.com/sysu620/sysu620/issues/3 |
 |16340110 | Chocoboeater | | |
 |16340092 | WaLittleMoon | | |

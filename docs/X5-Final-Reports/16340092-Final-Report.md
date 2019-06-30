@@ -58,11 +58,11 @@
 
 #### Dashboard 文档集合
 
-![image-20190630215648001](pictures/person1.png)
+![image-20190630215648001](../../images/person1.png)
 
 #### LittleMiser项目代码
 
-![image-20190630220047881](pictures/person2.png)
+![image-20190630220047881](../../images/person2.png)
 
 ## 个人博客清单
 

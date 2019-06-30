@@ -44,7 +44,8 @@
         - [Vue生命周期](https://blog.csdn.net/weixin_43825621/article/details/94344074)
     * 16340092 Blogs
          - [【学习笔记】MongoDB中与mysql的的区别](docs/X5-Final-Reports/【学习笔记】MongoDB与Mysql的区别.md)
-
+    * 16340110 Blogs
+         - [【笔记与博客收集】服务端相关知识点](https://blog.csdn.net/chocoboeater/article/details/94362522)
 
 * X5 Final Report
     * [16340087 Final Report](docs/X5-Final-Reports/16340087-Final-Report.md)

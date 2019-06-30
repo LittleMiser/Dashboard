@@ -41,7 +41,11 @@
     * 16340087 Blogs
         - [用Vue和ECharts绘制问卷统计结果](https://blog.csdn.net/sinat_36332694/article/details/94323199)
         - [项目经理初体验](https://blog.csdn.net/sinat_36332694/article/details/94331928)
+    * 16340058 Blogs
+        - [Vue初探](https://blog.csdn.net/weixin_43825621/article/details/93912112)
+        - [Vue生命周期](https://blog.csdn.net/weixin_43825621/article/details/94344074)
 * X5 Final Report
     * [16340087 Final Report](docs/X5-Final-Reports/16340087-Final-Report.md)
     * [16340077 Final Report](docs/X5-Final-Reports/1634077-Final-Report.md)
+    * [16340058 Final Report](docs/X5-Final-Reports/16340058-Final-Report.md)
     * [小组分工与贡献率说明](docs/X5-Division.md)

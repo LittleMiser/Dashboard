@@ -45,7 +45,7 @@
         - [Vue初探](https://blog.csdn.net/weixin_43825621/article/details/93912112)
         - [Vue生命周期](https://blog.csdn.net/weixin_43825621/article/details/94344074)
     * 16340092 Blogs
-         - [【学习笔记】MongoDB中与mysql的的区别](【学习笔记】MongoDB与Mysql的区别.md)
+         - [【学习笔记】MongoDB中与mysql的的区别](docs/X5-Final-Reports/【学习笔记】MongoDB与Mysql的区别.md)
          - [系统分析与设计一](https://blog.csdn.net/qq_36318771/article/details/88093433)
          - [系统分析与设计二](https://blog.csdn.net/qq_36318771/article/details/88413052)
          - [系统分析与设计三](https://blog.csdn.net/qq_36318771/article/details/89284390)

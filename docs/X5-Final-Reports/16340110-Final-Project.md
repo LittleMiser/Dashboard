@@ -47,10 +47,10 @@
 ## 4. 在项目相关仓库中的贡献
 - DashBoard 文档集合
   
-  ![文档贡献](../../images/110-1.PNG)
+  ![文档贡献](../../images/110-1.png)
 
 - LittleMiser 项目代码  
-  ![代码贡献](../../images/110-2.PNG)
+  ![代码贡献](../../images/110-2.png)
 
 ## 5. 个人博客清单
 - [系统分析与设计——作业一](https://blog.csdn.net/chocoboeater/article/details/88663409)

@@ -1,4 +1,94 @@
 # API 文档
+## 1. 用户管理
+### 1.1 创建用户
+> POST /register/register.html
+
+例如：
+```javascript
+[
+    {
+        Identity:"student"
+        Contact:"13302333323"
+        Code:"123456"
+        NickName:"1"
+        Name:"1"
+        old:"233"
+        StudentNum:"1"
+        Sex:"male"
+        Grade:"1"
+        Major:"1"
+        Money:5000   
+    }
+]
+```
+
+### 1.2 搜索用户
+> POST /index/index.html
+
+例如：
+```javascript
+[
+    {
+        Contact:"13302333323"
+        Code:"123456"
+    }
+]
+```
+
+### 1.3 扣除金钱
+> POST /createWJ/post_payWJ
+> POST /expressDetail/post_payEx
+例如：
+```javascript
+[
+    {
+        Contact:"13302333323"
+        Pay:"100"
+    }
+]
+```
+
+### 1.4 获得金钱
+> POST /createWJ/post_returnWJ
+> POST /createWJ/post_payEvery
+例如：
+```javascript
+[
+    {
+        Contact:"13302333323"
+        Pay:"100"
+    }
+]
+```
+
+### 1.5 修改密码
+> POST /personalInfo/updateCode
+例如：
+```javascript
+[
+    {
+        Contact:"13302333323"
+        Code:"111111"
+    }
+]
+```
+
+### 1.6 修改个人信息
+> POST /personalInfo/updatePersonal
+例如：
+```javascript
+[
+    {
+        Contact:"13302333323"
+        NickName:"1"
+        old:"233"
+        Grade:"1"
+        Major:"1"
+    }
+]
+```
+
+
 ## 2. 快递订单 
 ### 2.1 创建快递任务
 > POST /createExpress/createExpress

@@ -38,6 +38,10 @@
         * [系统分析与设计——作业三](https://170226.github.io/2019/04/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%89/#more)
         * [系统分析与设计——作业四](https://170226.github.io/2019/05/24/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E5%9B%9B/#more)
         * [系统分析与设计——作业五](https://170226.github.io/2019/05/26/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%94/#more)
+    * 16340087 Blogs
+        - [用Vue和ECharts绘制问卷统计结果](https://blog.csdn.net/sinat_36332694/article/details/94323199)
+        - [项目经理初体验](https://blog.csdn.net/sinat_36332694/article/details/94331928)
 * X5 Final Report
+    * [16340087 Final Report](docs/X5-Final-Reports/16340087-Final-Report.md)
     * [16340077 Final Report](docs/X5-Final-Reports/1634077-Final-Report.md)
     * [小组分工与贡献率说明](docs/X5-Division.md)

@@ -66,7 +66,7 @@
 
 ## 个人博客清单
 
-- [【学习笔记】MongoDB中与mysql的的区别](【学习笔记】MongoDB中与mysql的的区别.md)
+- [【学习笔记】MongoDB中与mysql的的区别](【学习笔记】MongoDB与Mysql的区别.md)
 - [系统分析与设计一](https://blog.csdn.net/qq_36318771/article/details/88093433)
 - [系统分析与设计二](https://blog.csdn.net/qq_36318771/article/details/88413052)
 - [系统分析与设计三](https://blog.csdn.net/qq_36318771/article/details/89284390)

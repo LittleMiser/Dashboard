@@ -33,11 +33,9 @@
 * X3 [auditing-records](docs/X3-auditing-records.md)
 * X4 Tech/Work Report
     * 16340077 Blogs
-        * [系统分析与设计——作业一](https://170226.github.io/2019/03/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%80/#more)
-        * [系统分析与设计——作业二](https://170226.github.io/2019/03/28/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%8C/#more)
-        * [系统分析与设计——作业三](https://170226.github.io/2019/04/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%89/#more)
-        * [系统分析与设计——作业四](https://170226.github.io/2019/05/24/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E5%9B%9B/#more)
-        * [系统分析与设计——作业五](https://170226.github.io/2019/05/26/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%94/#more)
+        * [软件生命周期模型 ](https://170226.github.io/2019/04/14/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%B8%89/#more)
+        * [用例图与建模](https://170226.github.io/2019/05/24/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E5%9B%9B/#more)
+        * [Node.js Express 框架使用](https://170226.github.io/2019/05/26/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E4%BD%9C%E4%B8%9A%E4%BA%94/#morehttps://170226.github.io/2019/06/30/Node-js-Express-%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8/)
     * 16340087 Blogs
         - [用Vue和ECharts绘制问卷统计结果](https://blog.csdn.net/sinat_36332694/article/details/94323199)
         - [项目经理初体验](https://blog.csdn.net/sinat_36332694/article/details/94331928)

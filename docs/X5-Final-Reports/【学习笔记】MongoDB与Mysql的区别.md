@@ -51,7 +51,7 @@ MySQL与MongoDB都是开源的常用数据库，但是MySQL是传统的关系型
 
 ### 五、查询语言
 
-![image-20190630222147261](pictures/h1.png)
+![image-20190630222147261](../../images/h1.png)
 
 ### 六、Mysql和Mongodb主要应用场景
 
